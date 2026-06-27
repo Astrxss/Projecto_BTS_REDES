@@ -8,7 +8,9 @@ Catedrático:
 
 Miguel Ernesto Rivas Serrano 
 
- 
+ Equipo:
+
+ - BTS
 
 Estudiante:  
 
